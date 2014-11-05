@@ -4,6 +4,7 @@ import ij.plugin.PlugIn;
 import imagescience.image.FloatImage;
 import imagescience.image.Image;
 import imagescience.random.Randomizer;
+
 import java.awt.GridBagConstraints;
 import java.awt.Insets;
 import java.awt.Panel;
